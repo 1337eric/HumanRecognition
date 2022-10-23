@@ -1,4 +1,7 @@
 # HumanRecognition
+USAGE - 
+python HumanRecognition.py
+
 Human recognition in python with tensorflow.
 
 Written using a tensorflow in python
